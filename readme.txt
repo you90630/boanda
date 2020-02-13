@@ -1,3 +1,2 @@
-you ge zui shuai
-游 哥 最 帅
-游哥好帅
+git remote add origin https://github.com/you90630/boanda.git
+git push -u origin master
